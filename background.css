@@ -1,0 +1,31 @@
+body{
+    background-image: url("Hotel_AS_Lisboa_IST_slide03.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1{
+    background: linear-gradient(to right, rgb(175, 229, 250), rgb(255, 126, 126));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p{
+    background: linear-gradient(rgb(175, 229, 250), rgb(255, 126, 126));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    border-style: outset;
+    border-width: 4px;
+    border-color: gold;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+img{
+    float: right;
+    margin-right: 10px;
+}
